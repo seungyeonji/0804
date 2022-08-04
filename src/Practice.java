@@ -19,7 +19,7 @@ public class Practice {	   	//7개의 피보나치 수열을 출력, n=(n-1)+(n-
 //		int after = 1;
 //		int next = 0;
 //		for(int i = 0; i < 7; i++) {
-//			System.out.print(before + "\t");
+//			System.out.print(before + "\t"); 
 //			next = before + after;
 //			before = after;
 //			after = next;
